@@ -1,5 +1,9 @@
-### Hi there 👋
+## Привет!!!👋
 
+### Меня зовут Михаил Чупарнов
+### и я занимаюсь iOS разработкой👨‍💻
+
+[связаться со мной](https://taplink.cc/mikhailchuparnov)
 <!--
 **mi1212/mi1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
